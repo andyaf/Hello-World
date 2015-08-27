@@ -1,2 +1,2 @@
 # Hello-World
-Test creating firs repository
+Test creating first repository
